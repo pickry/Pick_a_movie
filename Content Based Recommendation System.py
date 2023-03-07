@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 24 18:08:10 2022
 
-@author: Adrija Guha
-"""
 import pandas as pd
 from math import sqrt
 import numpy as np
